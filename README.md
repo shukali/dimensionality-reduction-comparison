@@ -15,7 +15,7 @@ Just choose a dataset, e.g. Iris, and start the Python-script: `python IrisCompa
 You need to have the following installed:
 - **[numpy](http://www.numpy.org/)**
 - **[matplotlib](https://matplotlib.org/)**
-- ** [scikit-learn](https://scikit-learn.org/stable/)** 
+- **[scikit-learn](https://scikit-learn.org/stable/)** 
 - **[pandas](https://pandas.pydata.org/)**
 
 Just go for `pip install xy`. The code was tested with Python 3.6.6. To see the performance on the MNIST dataset, you need to download it first: 
