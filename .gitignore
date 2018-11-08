@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Datasets/MNIST/train-labels.idx1-ubyte
+Datasets/MNIST/train-labels-idx1-ubyte.gz
+Datasets/MNIST/train-images.idx3-ubyte
+Datasets/MNIST/train-images-idx3-ubyte.gz
+Datasets/MNIST/t10k-labels.idx1-ubyte
+Datasets/MNIST/t10k-labels-idx1-ubyte.gz
+Datasets/MNIST/t10k-images.idx3-ubyte
+Datasets/MNIST/t10k-images-idx3-ubyte.gz
